@@ -1063,7 +1063,7 @@ p {
       color: #f9e084; }
 
   .visual h1 {
-    font-size: 5.4rem;
+    font-size: 5.4rem !important;
     line-height: 1.148; }
 
   .visual .text-block {
