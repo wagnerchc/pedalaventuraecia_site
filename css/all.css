@@ -1195,3 +1195,7 @@ p {
  .text-banner {
    font-size: 10px;
  }
+
+ .coluna-33 {
+   width: 33%;
+ }
